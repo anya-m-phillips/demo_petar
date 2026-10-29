@@ -3,7 +3,7 @@
 
 see use in `use_tidal_and_core_data.py`
 
-Data are in the `/circ`,`/gd1`,`/pa5` directories (corresponding to orbits). Within each orbit directory, select clusters of different densities -- fixed N=15k, initial virial radii 0.75, 1.5, 3.0, 6.0 pc. 
+Data are in the `/data/circ`,`/gd1`,`/pa5` directories (corresponding to orbits). Within each orbit directory, select clusters of different densities -- fixed N=15k, initial virial radii 0.75, 1.5, 3.0, 6.0 pc. 
 
 `/include` has the python analysis portion of `petar` in case you haven't completed the full install (once the data is processed you really only need these for easy/automatic loading of the files). 
 
