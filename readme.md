@@ -24,8 +24,11 @@ You can re-integrate the progenitor orbit given these ICs in gala or agama or wh
 units in petar outputs tend to be:
 
 position - pc
+
 velocity - pc/myr
+
 mass - Msun
+
 potential - pc^2 / Myr^2
 
 ---
